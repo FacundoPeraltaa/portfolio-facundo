@@ -20,18 +20,6 @@ Soy un desarrollador apasionado por crear soluciones móviles modernas y funcion
 
 ---
 
-## 📂 Estructura del proyecto
-
-portfolio-facundo/
-├── public/
-├── src/
-│ ├── App.js
-│ └── ...
-├── package.json
-└── README.md
-
----
-
 ## 🚀 Cómo correr este proyecto
 
 1. Cloná el repo:
